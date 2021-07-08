@@ -2,6 +2,8 @@
 
 High-precision GeoJSON data for the regions, provinces, districts, **neighborhoods, and villages** of Turkey.
 
+**Note:** *Since the data is scraped & compiled from various sources and is not official, 100% accuracy and/or completeness is not guaranteed.*
+
 ## Examples
 ### Maps
 #### Regions
